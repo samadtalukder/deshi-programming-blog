@@ -1,11 +1,11 @@
-# deshi-programming-blog
+# বাংলাদেশী প্রোগ্রামিং ব্লগ 
 
 <h1 align="center">
 	<br>
 	<img width="400" src="https://androbees.files.wordpress.com/2017/06/deshi_blog.jpg?w=723" alt="Bangladeshi Programming Blog List">
 	<br>
 </h1>
-# দেশি কিছু ব্লগ
+
 
   * [ব্যসিক প্রোগ্রামিংঃ]( http://hukush-pakush.com/): হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা
 
