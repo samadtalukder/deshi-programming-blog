@@ -44,3 +44,7 @@
    * [প্রোগ্রামিং সমস্যা](http://www.techsharif.com/programming-problem/):বাংলা ভাষায় প্রোগ্রামিং তথ্যকোষ
    
    * [হাসিন হায়দার এর ব্লগ ](https://hasin.me/):
+   
+   * [পিএইচপি,লারাভেল](http://nahid.im/diary):
+   
+   * [ পাইথন ](https://maateen.me/):
