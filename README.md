@@ -48,3 +48,11 @@
    * [পিএইচপি,লারাভেল](http://nahid.im/diary):
    
    * [ পাইথন ](https://maateen.me/):
+   
+   * [পাইথন](http://www.adhikary.net/):
+   
+   * [ভিডিও টিউটোরিয়াল ](http://www.zulkarnine.com/category/lecture/):
+   
+   * [ আইওএস ](https://nuhil.net/category/mobile-application/ios/): 
+   
+   * [ কঠলিন ](http://www.sunnat629.com/android/): 
